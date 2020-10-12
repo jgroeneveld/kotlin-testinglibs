@@ -6,3 +6,4 @@ This is an overview how different testing libraries for Kotlin feel.
 - assertk https://github.com/willowtreeapps/assertk
 - atrium https://github.com/robstoll/atrium
 - kluent: https://github.com/MarkusAmshove/Kluent
+- strikt: https://strikt.io/
