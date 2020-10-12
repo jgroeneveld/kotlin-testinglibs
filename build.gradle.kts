@@ -20,7 +20,10 @@ dependencies {
     testImplementation("org.jetbrains.kotlin:kotlin-test-junit")
 
     testImplementation("io.mockk:mockk:1.9.3.kotlin12")
+
     testImplementation("com.willowtreeapps.assertk:assertk-jvm:0.19")
+    testImplementation("ch.tutteli.atrium:atrium-fluent-en_GB:0.12.0")
+
 }
 
 configure<JavaPluginConvention> {

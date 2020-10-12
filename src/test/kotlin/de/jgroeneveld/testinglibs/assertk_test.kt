@@ -8,7 +8,6 @@ import io.mockk.every
 import io.mockk.mockk
 import kotlin.test.Test
 
-// assertk https://github.com/willowtreeapps/assertk
 class assertk_test {
     val someService = mockk<SomeService>()
 
