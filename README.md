@@ -8,3 +8,5 @@ This also includes how you can write custom assertions / matchers with the libra
 - atrium https://github.com/robstoll/atrium
 - kluent: https://github.com/MarkusAmshove/Kluent
 - strikt: https://strikt.io/
+
+Look at the code [in the testing folder](src/test/kotlin/de/jgroeneveld/testinglibs)
