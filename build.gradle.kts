@@ -8,6 +8,7 @@ version = "1.0-SNAPSHOT"
 
 repositories {
     mavenCentral()
+    jcenter()
 }
 
 dependencies {
@@ -23,6 +24,7 @@ dependencies {
 
     testImplementation("com.willowtreeapps.assertk:assertk-jvm:0.19")
     testImplementation("ch.tutteli.atrium:atrium-fluent-en_GB:0.12.0")
+    testImplementation("org.amshove.kluent:kluent:1.55")
 
 }
 
